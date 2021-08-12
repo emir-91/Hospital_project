@@ -155,7 +155,7 @@ namespace Hospital_project
             // 
             // BtnExit
             // 
-            this.BtnExit.Location = new System.Drawing.Point(199, 55);
+            this.BtnExit.Location = new System.Drawing.Point(199, 35);
             this.BtnExit.Name = "BtnExit";
             this.BtnExit.Size = new System.Drawing.Size(116, 37);
             this.BtnExit.TabIndex = 2;
